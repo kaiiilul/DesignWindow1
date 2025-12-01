@@ -7,3 +7,6 @@ ui_*.h
 .qmake.stash
 Makefile
 DesignWindow1/DesignWindow1/DesignWindow
+
+# CodeQL
+_codeql_detected_source_root
