@@ -1,0 +1,12 @@
+# Build artifacts
+*.o
+moc_*.cpp
+moc_*.h
+moc_predefs.h
+ui_*.h
+.qmake.stash
+Makefile
+DesignWindow1/DesignWindow1/DesignWindow
+
+# CodeQL
+_codeql_detected_source_root
